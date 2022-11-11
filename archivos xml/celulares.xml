@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nitf>
+    
+        <cellphoneslist>
+            <phone id="1">
+                <phonename>GalaxyA20</phonename>
+                <year>2010</year>
+                <developer>Samsung</developer>
+                <rating>80/100</rating>
+            </phone>
+            <phone id="2">
+                <phonename>Note11</phonename>
+                <year>2010</year>
+                <developer>Xiaomi</developer>
+                <rating>100/100</rating>
+            </phone>
+            <phone id="3">
+                <phonename>Iphone13</phonename>
+                <year>2010</year>
+                <developer>Apple</developer>
+                <rating>95/100</rating>
+            </phone>
+
+
+
+
+        </cellphoneslist>
+
+</nitf>

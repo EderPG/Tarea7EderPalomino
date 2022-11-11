@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nitf>
+    
+        <Videogameslist>
+            <game id="1">
+                <gamename>Carlosduty</gamename>
+                <year>2010</year>
+                <category>Shooter</category>
+                <rating>80/100</rating>
+            </game>
+            <game id="2">
+                <gamename>Fifa</gamename>
+                <year>2022</year>
+                <category>Sports</category>
+                <rating>87/100</rating>
+            </game>
+            <game id="3">
+                <gamename>RocketLeague</gamename>
+                <year>2017</year>
+                <category>Sports</category>
+                <rating>90/100</rating>
+            </game>
+            <game id="4">
+                <gamename>TOF</gamename>
+                <year>2022</year>
+                <category>MMORPG</category>
+                <rating>86/100</rating>
+            </game>
+
+
+
+
+
+        </Videogameslist>
+
+</nitf>
